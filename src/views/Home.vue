@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <Button>asdfasd</Button>
+    <Button>按♣钮</Button>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
